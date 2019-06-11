@@ -4,4 +4,5 @@ repo = "https://github.com/haberdashPI/LabRegistry.jl"
 uuid = "bb6984de-8c64-11e9-351b-43696c1a075b"
 
 [packages]
+7e25a372-ade5-11e8-17af-a30e5a9e2c28 = { name = "AuditoryBistabilityLE", path = "A/AuditoryBistabilityLE" }
 80f90042-ac61-11e8-0ace-f1a8d5e03555 = { name = "ShammaModel", path = "S/ShammaModel" }
