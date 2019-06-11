@@ -1,0 +1,4 @@
+authors = ["David Little <david.frank.little@gmail.com>"]
+name = "ShammaModel"
+repo = "https://github.com/haberdashPI/ShammaModel.jl"
+uuid = "80f90042-ac61-11e8-0ace-f1a8d5e03555"
