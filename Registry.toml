@@ -1,0 +1,6 @@
+description = "Private registry for lab projects"
+name = "/Users/davidlittle/Documents/work/tools/LabRegistry"
+repo = "https://github.com/haberdashPI/LabRegistry.jl"
+uuid = "bb6984de-8c64-11e9-351b-43696c1a075b"
+
+[packages]
