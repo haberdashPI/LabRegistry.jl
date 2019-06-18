@@ -1,0 +1,3 @@
+["0.1"]
+Interpolations = "0.11.0-*"
+Unitful = "0.15.0-*"

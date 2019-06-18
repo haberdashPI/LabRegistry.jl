@@ -1,0 +1,4 @@
+authors = ["David Little <david.frank.little@gmail.com>"]
+name = "Psychoacoustics"
+repo = "https://github.com/haberdashPI/Psychoacoustics.jl"
+uuid = "8fedaf65-873c-58d0-a124-d2a652e0e461"
