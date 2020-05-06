@@ -1,4 +1,3 @@
-authors = ["David Little <david.frank.little@gmail.com>"]
 name = "PlotAxes"
-repo = "https://github.com/haberdashPI/PlotAxes.jl.git"
 uuid = "8b6f5f00-d239-11e8-3a24-33314b00f6b0"
+repo = "https://github.com/haberdashPI/PlotAxes.jl.git"
